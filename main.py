@@ -10,7 +10,7 @@ personagens ={
         "Nome": "Johnny Lawrence",
         "Estilo de Luta": "Cobra Kai",
         "Personalidade": "Arrogante, mas com boa evolução de caráter",
-        "Histórico": "Campeão de torneio de karatê nos anos 80, mas depois teve dificuldades na vida adulta.",
+        "Histórico": "Campeão de torneio de karatê nos anos 80, mas depois teve dificuldades na sua vida adulta.",
         "Foto": "https://static.wikia.nocookie.net/thekaratekid/images/7/75/JohnnyS6FinalSceneProfile.png/revision/latest?cb=20250214060307"
     },
     2: {
